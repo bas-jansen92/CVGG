@@ -1,5 +1,18 @@
 # Release notes CVGG
 
+# Release 1.29
+Productieomgeving: 23-02-2026
+
+Proefomgeving: 20-02-2026
+We hebben de afgelopen periode verschillende verbeteringen doorgevoerd aan het platform. Hierbij zijn functionaliteiten uitgebreid en sorteringen gecorrigeerd. Daarnaast zijn nieuwe statussen toegevoegd aan de voortgangsrapportage om meer inzicht te geven in de status van aanleveringen.
+
+Doorgevoerde verbeteringen:
+- Teksten op de website kunnen nu aangepast worden door de functioneel beheerder
+- Uitlevering wordt nu geblokkeerd wanneer er fouten zitten in uitleverbestanden, ook bij selectie via de kaart
+- Nieuwe statussen ‘aangeleverd’ en ‘ter publicatie’ toegevoegd aan de voortgangsrapportage
+- Overzicht berichten sorteert weer correct aflopend op datum
+- Overzicht RO-aanleveringen sorteert weer correct aflopend op datum
+
 # Release 1.28
 Productieomgeving: -
 
